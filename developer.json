@@ -1,24 +1,24 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "John Lincoln",
+    "logo_name": "john-lincoln",
+    "role": "Senior Blockchain Web developer",
     "about": {
         "sections": {
-            "professional-info": {
-                "title": "professional-info",
+            "Experience": {
+                "title": "Experience",
                 "icon": "icons/info-professional.svg",
                 "info": {
-                    "experience": {
-                        "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    "Self-employed": {
+                        "title": "Self-employed",
+                        "description": "<br><b>Full Stack Developer</b> | December 2023 - Present<br><br><ul><li>- Develop and maintain responsive, user-friendly, and visually appealing websites using programming languages.</li><br><li>- Collaborate with cross-functional teams to optimize website performance, user experience, and SEO.</li><br><li>- Developed and implemented a secure, scalable architecture for web applications using Node.js, Express, React, Redux and MongoDB.</li><br></ul>"
                     },
-                    "hard-skills": {
-                        "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    "Drapefit": {
+                        "title": "Drapefit",
+                        "description": "<br><b>Senior Full Stack Developer</b> | September 2021 - December 2023<br><br>- Crafted responsive and engaging user interfaces using HTML, CSS, and JavaScript frameworks, guaranteeing a smooth and intuitive user journey.<br><br>- Worked in agile development environments, actively participating in sprint planning, daily stand-ups, and retrospectives to deliver features on time and adapt to evolving project requirements.<br><br>- I kept abreast of the latest industry trends and emerging technologies to incorporate the best practices and tools into development processes."
                     },
-                    "soft-skills": {
-                        "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                    "Palmerbet": {
+                        "title": "Palmerbet",
+                        "description": "<br><b>Full Stack Web developer</b> | December 2018 - November 2021 <br><br>- Developed and maintained responsive, user-friendly front-end interfaces using HTML, CSS, JavaScript, and modern frameworks such as Angular and React. <br><br>- Ensured seamless user experiences by optimizing web application performance and adhering to UX/UI best practices.<br><br>- Designed and managed relational and NoSQL databases (e.g., MySQL, MongoDB) to store, retrieve, and manipulate data efficiently. <br><br>- Implemented database schemas, conducted performance optimization, and ensured data security and integrity.<br>"
                     }
                 }
             },
@@ -28,19 +28,15 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br> About me <br> Resourceful Full Stack Developer with over five years of comprehensive experience in web development, specializing in both front-end and back-end technologies. Adept at building responsive user interfaces with HTML, CSS, and JavaScript frameworks like React and Angular, coupled with server-side expertise in Node.js and database management using SQL and NoSQL databases. Proven track record in developing scalable and efficient full-stack applications. Committed to maintaining cutting-edge technical skills and up-to-date industry knowledge. Skilled in collaborating with cross-functional teams to achieve project goals and improve development processes. Enthusiastic about coding and delivering high-quality solutions that enhance user experience and business objectives."
                     },
                     "interests": {
                         "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>To obtain a challenging full stack developer position in a dynamic and innovative organization where I can utilize my technical and creative skills to develop and maintain responsive, user-friendly, and visually appealing programming."
                     },
-                    "education": {
-                        "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-                        "files": {
-                            "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
-                        }
+                    "university": {
+                        "title": "university",
+                        "description": "<br><b>University of California, Berkeley</b> | BS in Computer Science<br><br>- Duration: 2014.4 - 2018.3 <br><br> - Earned a 3.8 GPA (MAX 4.0) and completed relevant coursework in web development, database management, and software engineering.<br><br>- I award Bachelor’s degree in Computer Science."
                     }
                 }
             },
@@ -50,11 +46,11 @@
                 "info": {
                     "sports": {
                         "title": "sports",
-                        "description": "<br>I am an avid sports enthusiast and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Hey there, I'm John Lincoln, and when I'm not immersed in the world of technology, you'll often find me on the field or the court, indulging in my love for sports.<br><br>Ever since I can remember, football and basketball have been more than just games to me—they're passions that fuel my competitive spirit and drive for teamwork. Whether it's the adrenaline rush of scoring a touchdown or the strategic finesse of making the perfect pass, there's something truly exhilarating about being in the midst of the action.<br><br>On the football field, I've learned the importance of discipline, perseverance, and leadership, qualities that have not only shaped me as an athlete but also as a person. And when I lace up my basketball shoes, it's all about agility, coordination, and the thrill of the game.<br><br>From early morning practices to intense game days, sports have taught me invaluable lessons about dedication, resilience, and the power of camaraderie. Win or lose, it's the journey—the sweat, the tears, the shared moments of triumph—that I cherish the most.<br><br>So, whether I'm cheering from the sidelines or giving it my all on the field, sports will always hold a special place in my heart, reminding me of the thrill of competition and the joy of teamwork.<br><br>"
                     },
                     "favorite-games": {
                         "title": "favorite-games",
-                        "description": "<br>I am a passionate gamer with Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                        "description": "<br>Hey everyone, when I'm not diving into lines of code or hitting the books, you'll often find me immersed in the thrilling worlds of Dota and PUBG.<br><br>Gaming isn't just a hobby for me—it's a passion that sparks my imagination and fuels my competitive spirit. Whether I'm strategizing with teammates in the intense battles of Dota or outmaneuvering opponents in the adrenaline-fueled chaos of PUBG, there's something truly exhilarating about the gaming experience.<br><br>In Dota, I've honed my skills in teamwork, strategy, and quick decision-making, mastering the art of collaboration to achieve victory against formidable opponents. And in PUBG, every match is a new adventure, where split-second decisions and tactical prowess can mean the difference between triumph and defeat.<br><br>Beyond the thrill of competition, gaming has also been a source of creativity and inspiration for me. From the intricately designed worlds to the compelling narratives, I'm constantly amazed by the immersive experiences that games have to offer.<br><br>Whether I'm navigating through treacherous terrain or engaging in epic battles, gaming has taught me valuable lessons about perseverance, adaptability, and the importance of staying focused under pressure.<br><br>So, whether I'm exploring fantastical realms in Dota or battling it out in the battlegrounds of PUBG, gaming will always be more than just a pastime—it's a passion that brings joy, excitement, and endless possibilities.<br><br><br>"
                     }
                 }
             }
@@ -64,25 +60,25 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "johnlincoln970703",
+                "phone": "+16038376011"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
                 "url": "https://github.com/",
-                "user": "username"
+                "user": "0xsid0703"
             },
             "facebook": {
                 "title": "Facebook profile",
                 "url": "https://facebook.com/",
-                "user": "username"
+                "user": "0xsid0703"
             },
             "twitter": {
                 "title": "Twitter account",
                 "url": "https://twitter.com/",
-                "user": "username"
+                "user": "0xsid0703"
             }
         },
         "find_me_also_in": {
@@ -91,22 +87,22 @@
                 "youtube": {
                     "title": "YouTube channel",
                     "url": "https://www.youtube.com/",
-                    "user": "username"
+                    "user": "0xsid0703"
                 },
                 "gurushots": {
                     "title": "GuruShots profile",
                     "url": "https://gurushots.com/",
-                    "user": "username"
+                    "user": "0xsid0703"
                 },
                 "instagram": {
                     "title": "Instagram account",
                     "url": "https://instagram.com/",
-                    "user": "username"
+                    "user": "0xsid0703"
                 },
                 "twitch": {
                     "title": "Twitch profile",
                     "url": "https://twitch.com/",
-                    "user": "username"
+                    "user": "0xsid0703"
                 }
             }
         }
@@ -117,46 +113,81 @@
     },
     "projects": {
         "1": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations2.png",
-            "tech": ["Flutter"],
-            "url": "https://github.com/"
+            "title": "Dkarts24",
+            "description": "Dkarts24 is your trusted destination for a diverse range of products, bringing convenience and quality to your doorstep",
+            "img": "/images/projects/dkarts24.png",
+            "tech": ["React", "CSS", "HTML"],
+            "url": "https://dkarts24.com/"
         },
         "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
-            "url": "https://github.com/"
+            "title": "Voiceair",
+            "description": "Create studio-quality audio and video content with advanced AI voices on our web and mobile applications.",
+            "img": "/images/projects/voiceair.png",
+            "tech": ["Gatsby", "React", "HTML", "CSS"],
+            "url": "https://voiceair.ai/"
         },
         "3": {
-            "title": "_worldmap",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
-            "url": "https://github.com/"
+            "title": "HeatherridgePet",
+            "description": "We are a full service companion animal hospital serving the communities of Sioux Falls, Harrisburg & Tea.",
+            "img": "/images/projects/heatherridgepet.png",
+            "tech": ["Angular", "HTML", "CSS"],
+            "url": "https://www.heatherridgepet.com/"
         },
         "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
+            "title": "Caratlane",
+            "description": "CaratLane offers the best gold & diamond jewellery designs online. Visit!",
+            "img": "/images/projects/caratlane.png",
+            "tech": ["React", "Vue"],
+            "url": "https://www.caratlane.us/"
         },
         "5": {
-            "title": "_tetris-game",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/tetris-game.png",
+            "title": "Rotten City Pizza",
+            "description": " At Rotten City Pizza, we craft each slice with dedication and creativity, blending the finest ingredients to bring you",
+            "img": "/images/projects/rottencitypizza.png",
             "tech": ["React"],
-            "url": "https://github.com/"
+            "url": "https://rottencitypizza.com/"
         },
-        "6": {
-            "title": "_ethereum",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ethereum.png",
-            "tech": ["Vue"],
-            "url": "https://github.com/"
+        "7": {
+            "title": "Today tourism",
+            "description": "Explore some of the best accommodations from around the world, read travel guides before you travel, book tours and flights",
+            "img": "/images/projects/todaytourism.png",
+            "tech": ["React","CSS"],
+            "url": "https://www.todaytourism.com/"
+        },
+        "8": {
+            "title": "Drapefit",
+            "description": "Order your FIT Box to fit your needs. Schedule online and cancel at any time.",
+            "img": "/images/projects/drapefit.png",
+            "tech": ["React", "HTMl", "CSS"],
+            "url": "https://www.drapefit.com/"
+        },
+        "9": {
+            "title": "PalmerBet",
+            "description": "Place bets on horse racing, NBA, NFL, Soccer, Cricket and so much more now at Palmerbet.",
+            "img": "/images/projects/palmerbet.png",
+            "tech": ["HTML", "CSS"],
+            "url": "https://www.palmerbet.com/"
+        },
+        "10": {
+            "title": "Sundrip",
+            "description": "Buy and sell 1,000’s of interoperable video game assets from top blockchain games and worlds using native game tokens.",
+            "img": "/images/projects/sundrip.png",
+            "tech": ["Solidity", "Web3", "HTML", "React"],
+            "url": "https://dapp.sundrip.io"
+        },
+        "11": {
+            "title": "NFTYMETA",
+            "description": "Buy and sell 1,000’s of interoperable video game assets from top blockchain games and worlds using native game tokens.",
+            "img": "/images/projects/nftymeta.png",
+            "tech": ["Solidity", "Web3", "HTML", "React"],
+            "url": "https://dapp.nftymeta.com/"
+        },
+        "12": {
+            "title": "Buktrips",
+            "description": "BOOK, TRADE, RESELL HOTEL ROOMS WITH CRYPTO OR FIAT",
+            "img": "/images/projects/bukktrips.png",
+            "tech": ["Solidity", "Web3", "HTML", "React"],
+            "url": "https://www.buktrips.com/"
         }
     }
 }
