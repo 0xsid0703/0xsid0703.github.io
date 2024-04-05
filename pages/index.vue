@@ -22,7 +22,7 @@
 				<span class="action">
 					// complete the game to continue
 				</span>
-				<span :class="{hide: isMobile}">
+				<!-- <span :class="{hide: isMobile}">
 					// you can also see it on my Github page
 				</span>
 				<span :class="{hide: !isMobile}">
@@ -41,7 +41,7 @@
 					<a class="string" :href="'https://github.com/' + config.public.dev.contacts.social.github.user">
 						"https://github.com/{{ config.public.dev.contacts.social.github.user }}"
 					</a>
-				</p>
+				</p> -->
 			</div>
 		</section>
 
