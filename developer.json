@@ -169,25 +169,25 @@
             "url": "https://www.palmerbet.com/"
         },
         "10": {
-            "title": "Sundrip",
-            "description": "Buy and sell 1,000’s of interoperable video game assets from top blockchain games and worlds using native game tokens.",
-            "img": "/images/projects/sundrip.png",
-            "tech": ["Solidity", "Web3", "HTML", "React"],
-            "url": "https://dapp.sundrip.io"
-        },
-        "11": {
-            "title": "NFTYMETA",
-            "description": "Buy and sell 1,000’s of interoperable video game assets from top blockchain games and worlds using native game tokens.",
-            "img": "/images/projects/nftymeta.png",
-            "tech": ["Solidity", "Web3", "HTML", "React"],
-            "url": "https://dapp.nftymeta.com/"
-        },
-        "12": {
             "title": "Buktrips",
             "description": "BOOK, TRADE, RESELL HOTEL ROOMS WITH CRYPTO OR FIAT",
             "img": "/images/projects/bukktrips.png",
             "tech": ["Solidity", "Web3", "HTML", "React"],
             "url": "https://www.buktrips.com/"
+        },
+        "11": {
+            "title": "Elementalstory",
+            "description": "ELEMENTAL STORY WORLD is a Web3 competitive puzzle game with elements of GameFi.",
+            "img": "/images/projects/elementalstory.png",
+            "tech": ["Solidity", "Web3", "HTML", "React"],
+            "url": "https://elementalstory-world.com/en/"
+        },
+        "12": {
+            "title": "DMarket",
+            "description": "DMarket is a marketplace to trade virtual items and technology for building metaverses.",
+            "img": "/images/projects/dmarket.png",
+            "tech": ["Solidity", "Web3", "HTML", "React"],
+            "url": "https://dmarket.com/"
         }
     }
 }
