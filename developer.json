@@ -151,12 +151,56 @@
             "tech": ["React"],
             "url": "https://github.com/"
         },
+<<<<<<< HEAD
         "6": {
             "title": "_ethereum",
             "description": "Duis aute irure dolor in velit esse cillum dolore.",
             "img": "/images/projects/ethereum.png",
             "tech": ["Vue"],
             "url": "https://github.com/"
+=======
+        "7": {
+            "title": "Today tourism",
+            "description": "Explore some of the best accommodations from around the world, read travel guides before you travel, book tours and flights",
+            "img": "/images/projects/todaytourism.png",
+            "tech": ["React","CSS"],
+            "url": "https://www.todaytourism.com/"
+        },
+        "8": {
+            "title": "Drapefit",
+            "description": "Order your FIT Box to fit your needs. Schedule online and cancel at any time.",
+            "img": "/images/projects/drapefit.png",
+            "tech": ["React", "HTMl", "CSS"],
+            "url": "https://www.drapefit.com/"
+        },
+        "9": {
+            "title": "PalmerBet",
+            "description": "Place bets on horse racing, NBA, NFL, Soccer, Cricket and so much more now at Palmerbet.",
+            "img": "/images/projects/palmerbet.png",
+            "tech": ["HTML", "CSS"],
+            "url": "https://www.palmerbet.com/"
+        },
+        "10": {
+            "title": "Buktrips",
+            "description": "BOOK, TRADE, RESELL HOTEL ROOMS WITH CRYPTO OR FIAT",
+            "img": "/images/projects/bukktrips.png",
+            "tech": ["Solidity", "Web3", "HTML", "React"],
+            "url": "https://www.buktrips.com/"
+        },
+        "11": {
+            "title": "Elementalstory",
+            "description": "ELEMENTAL STORY WORLD is a Web3 competitive puzzle game with elements of GameFi.",
+            "img": "/images/projects/elementalstory.png",
+            "tech": ["Solidity", "Web3", "HTML", "React"],
+            "url": "https://elementalstory-world.com/en/"
+        },
+        "12": {
+            "title": "DMarket",
+            "description": "DMarket is a marketplace to trade virtual items and technology for building metaverses.",
+            "img": "/images/projects/dmarket.png",
+            "tech": ["Solidity", "Web3", "HTML", "React"],
+            "url": "https://dmarket.com/"
+>>>>>>> 9a1dfa617653376d6d609219437b51484ba628f4
         }
     }
 }
