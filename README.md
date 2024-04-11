@@ -1,86 +1,73 @@
-<h1 align="center">
-  developer-portfolio-v2
-</h1>
-<p align="center">
-  The first open source version of <a href="https://www.figma.com/community/file/1100794861710979147" target="_blank"> Portfolio for Developers Concept V.2</a>, designed by <a href="https://www.behance.net/darelova" target="_blank">@darelova</a> and developed by <a href="https://github.com/alexdeploy">@alexdeploy</a>. Built with <a href="https://nuxt.com/" target="_blank">Nuxt.js 3.0</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
-</p>
-<div align="center">
+<h2 align="center">
+  Portfolio Website - v2.0<br/>
+  <a href="https://johnlincoln-awesome.vercel.app/" target="_blank">johnlincoln-awesome</a>
+</h2>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6fa55804-6799-419f-9222-359ba49c5e4c/deploy-status)](https://app.netlify.com/sites/developer-portfolio-v2/deploys)
+<br/>
 
-</div>
+<center>
 
-<p align="center">
-  <a href="" target="_blank">
-    <img src="./public/images/demo-share.png" />
-  </a>
-</p>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/0xsid0703/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/0xsid0703/Portfolio?color=red&logo=github&style=for-the-badge)
 
-## 🚨 Forking this repo
+</center>
 
-Feel free to fork this repository and make it your own! You can use it as a starting point for your own portfolio website. However, please note that the effort and time deserves to be recognized and *plagiarism is a bad practice*. If you use this project, we would greatly appreciate it if you give credits to the designer <a href="https://www.behance.net/darelova" target="_blank">@darelova</a> and the developer <a href="https://github.com/alexdeploy">@alexdeploy</a>, or linking <a href="https://github.com/alexdeploy/developer-portfolio-v2">this repo</a>.
+<h3 align="center">
+    🔹
+    <a href="https://github.com/0xsid0703/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/0xsid0703/Portfolio/issues">Request Feature</a>
+</h3>
 
-Thanks 🤘 and enjoy it!
+## TL;DR
 
-## 🛠 Installation
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [0xsid0703](https://github.com/0xsid0703/Portfolio). Thanks!
 
-1. Clone the project to your local machine.
+## Built With
 
-```sh
-git clone https://github.com/alexdeploy/developer-portfolio-v2.git
-```
+My personal portfolio <a href="https://johnlincoln-awesome.vercel.app/" target="_blank">portfolio</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-2. Navigate to the project directory
+This project was built using these technologies.
 
-```sh
-cd developer-portfolio-v2
-```
+- React.js
+- Node.js
+- Express.js
+- CSS3
+- VsCode
+- Vercel
 
-3. Install the required dependencies
+## Features
 
-```sh
-yarn
-```
+**📖 Multi-Page Layout**
 
-4. Start the development server
+**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
-```sh
-yarn dev
-```
+**📱 Fully Responsive**
 
-5. The development server should now be running on <a href="http://localhost:3000/">http://localhost:3000/</a>
+## Getting Started
 
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-## ✒️ Customization
+## 🛠 Installation and Setup Instructions
 
-The portfolio template includes some default content, but you can easily customize it to fit your needs. Here are some of the things you can change:
+1. Installation: `npm install`
 
-* Update the `developer.json` file on root directory, which contains all the text for the project and the portfolio "user" information, including *projects*, *about-me*, *gists* (Ids) and *contact* info.
+2. In the project directory, you can run: `npm start`
 
-* Update the `nuxt.config.ts` file for meta tags of website and some additional config.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
 
-* Update the `public/pwa/manifest.json` file for PWA config.
+## Usage Instructions
 
-* Change the styling and design of the website to match your personal style.
+Open the project folder and Navigate to `/src/components/`. <br/>
+You will find all the components used and you can edit your information accordingly.
 
-## 🚀 Building and Running for Production
+### Show your support
 
-1. Generate a full static production build
+Give a ⭐ if you like this website!
 
-```sh
-yarn build
-```
-
-2. Preview the site as it will appear once deployed.
-
-```sh
-yarn preview
-```
-
-## Contributions
-
-If you find any bugs or have any suggestions, you can open an <a href="https://github.com/alexdeploy/developer-portfolio-v2/issues">issue</a>.
-
-## License
-
-This project is licensed under the MIT License. See the <a href="https://github.com/alexdeploy/developer-portfolio-v2/blob/main/LICENSE">LICENSE</a> file for more information.
+<a href="https://www.buymeacoffee.com/0xsid0703" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
